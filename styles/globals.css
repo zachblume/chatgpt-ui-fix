@@ -20,3 +20,6 @@ h2 {
 img {
   @apply w-64 border-black
 }
+a {
+  @apply text-blue-500 underline underline-offset-2 font-medium;
+}
