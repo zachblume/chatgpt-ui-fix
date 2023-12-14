@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <>
       <h1>ChatGPT should let you select the newest paragraph even as it streams in</h1>
-      <p><Link href="https://github.com">Code on github</Link></p>
+      <p><Link href="https://github.com/zachblume/chatgpt-ui-fix/blob/main/pages/index.js">Read the code on github</Link></p>
       <h2>Problem</h2>
       <p>
         Let&apos;s stream text into the following paragraph like ChatGPT does in its most recent paragraph:
